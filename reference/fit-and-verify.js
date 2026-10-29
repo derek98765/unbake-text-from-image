@@ -1,5 +1,5 @@
 /*
- * Browser snippets for the unbake-image-text skill.
+ * Browser snippets for the unbake-text-from-image skill.
  *
  * Run these through the Chrome extension's javascript_tool, on any page of the
  * project (the real font must be loaded — that is the whole point of fitting in

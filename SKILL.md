@@ -1,5 +1,5 @@
 ---
-name: unbake-image-text
+name: unbake-text-from-image
 description: >
   Turn an image with baked-in text into text-free art plus a CSS text overlay, by measuring the
   original's type geometry and reproducing it exactly. Trigger whenever an image has text burned
